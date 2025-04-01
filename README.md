@@ -1,3 +1,4 @@
 # MinecraftLauncher
 
-Lembrando este é só um codigo de um win forms, mas a base em si está ali.
+Este repositório contém o código-fonte de um WinForms, fornecendo a base essencial para desenvolvimento e personalização.
+
